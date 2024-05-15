@@ -1,0 +1,52 @@
+{
+    "name": "Manivannan Pandian",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Manivannan - curious",
+    "headerTaglineThree": "developer and designer",
+    
+    "showBlog": true,
+    "darkMode": true,
+    "socials": [
+      {
+        "id": "1",
+        "title": "Github",
+        "link": "https://github.com/Manivannan0734"
+      },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/mernman"
+      },
+      
+      
+      { "id": "5", "title": "Email", "link": "mailto:manivannan0734@gmail.com" }
+    ],
+
+
+    
+    "services": [
+      {
+        "id": "1",
+        "title": "Interactive Focus",
+        "description": "I create dynamic and engaging digital interfaces, ensuring interactions are intuitive and enjoyable."
+      },
+      {
+        "id": "2",
+        "title": "Responsive Expertise",
+        "description": "I specialize in building websites and applications that adapt seamlessly to different devices."
+      },
+      {
+        "id": "3",
+        "title": "Efficient Code",
+        "description": "I prioritize clean and efficient code to optimize performance and ensure fast loading times."
+      },
+      {
+        "id": "4",
+        "title": "User-Centric Approach",
+        "description": "Interaction designers focus on how users engage with digital interfaces, ensuring that interactions are intuitive, efficient, and enjoyable."
+      }
+    ],
+    "aboutpara": "Hi, I'm Mani, a frontend developer specializing in React, Next.js, MongoDB, Node.js, and deploying with Vercel. I'm passionate about crafting seamless digital experiences that marry creativity with functionality. My focus is on building responsive, performant web applications that users love to engage with. From translating designs into clean, efficient code to optimizing performance and ensuring cross-browser compatibility, I thrive on the technical challenges of frontend development. Whether it's implementing complex features or refining user interfaces, I'm dedicated to delivering high-quality solutions that exceed expectations. I believe in the power of continuous learning and staying updated with the latest technologies and best practices in the ever-evolving landscape of web development. By collaborating closely with teams and embracing challenges as opportunities for innovation, I'm committed to turning ideas into reality and creating memorable digital interactions. Let's collaborate and create something amazing together! Check out my portfolio to see examples of my work and how I blend technical expertise with creative problem-solving."
+    
+  }
+  
